@@ -1,0 +1,68 @@
+[
+  {
+    "StationUID": "TRTC-BL01",
+    "StationID": "BL01",
+    "StationName": {
+        "Zh_tw": "頂埔",
+        "En": "Dingpu"
+    },
+    "StationAddress": "236040新北市土城區中央路4段51之6號B3",
+    "BikeAllowOnHoliday": true,
+    "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+    "UpdateTime": "2020-11-05T00:00:00+08:00",
+    "VersionID": 4,
+    "StationPosition": {
+        "PositionLon": 121.4205,
+        "PositionLat": 24.96012,
+        "GeoHash": "wsqmfzzen"
+    },
+    "LocationCity": "新北市",
+    "LocationCityCode": "NWT",
+    "LocationTown": "土城區",
+    "LocationTownCode": "65000130"
+},
+{
+    "StationUID": "TRTC-BL02",
+    "StationID": "BL02",
+    "StationName": {
+        "Zh_tw": "永寧",
+        "En": "Yongning"
+    },
+    "StationAddress": "236036新北市土城區中央路3段105號B1",
+    "BikeAllowOnHoliday": true,
+    "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+    "UpdateTime": "2020-11-05T00:00:00+08:00",
+    "VersionID": 4,
+    "StationPosition": {
+        "PositionLon": 121.43613,
+        "PositionLat": 24.96682,
+        "GeoHash": "wsqq53546"
+    },
+    "LocationCity": "新北市",
+    "LocationCityCode": "NWT",
+    "LocationTown": "土城區",
+    "LocationTownCode": "65000130"
+},
+{
+    "StationUID": "TRTC-BL03",
+    "StationID": "BL03",
+    "StationName": {
+        "Zh_tw": "土城",
+        "En": "Tucheng"
+    },
+    "StationAddress": "236017新北市土城區金城路1段105號B1",
+    "BikeAllowOnHoliday": true,
+    "SrcUpdateTime": "2020-11-01T00:00:00+08:00",
+    "UpdateTime": "2020-11-05T00:00:00+08:00",
+    "VersionID": 4,
+    "StationPosition": {
+        "PositionLon": 121.44432,
+        "PositionLat": 24.97313,
+        "GeoHash": "wsqq5d1p1"
+    },
+    "LocationCity": "新北市",
+    "LocationCityCode": "NWT",
+    "LocationTown": "土城區",
+    "LocationTownCode": "65000130"
+}
+]
